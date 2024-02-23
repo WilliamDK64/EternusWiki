@@ -1,6 +1,5 @@
 ---
-aliases: 
-draft: "false"
+aliases:
 ---
 ![[EternusVictoria.jpg]]
 
