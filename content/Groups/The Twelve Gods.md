@@ -1,6 +1,6 @@
 ---
 title: The Twelve Gods
-draft: "true"
+draft: "false"
 aliases:
 ---
 
