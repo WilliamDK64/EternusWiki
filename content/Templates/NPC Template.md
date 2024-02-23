@@ -37,5 +37,5 @@ Text.
 Text.
 
 ## Relationships
-#### Cypress
+#### Person
 Text.
