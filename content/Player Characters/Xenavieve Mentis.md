@@ -1,6 +1,7 @@
 ---
 aliases:
   - Vivi
+  - Xenavieve
 ---
 ![[Xenavieve.png]]
 
