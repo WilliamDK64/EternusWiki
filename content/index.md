@@ -2,7 +2,7 @@
 title: Welcome to Eternus
 ---
 
-It began with the [[12Gods|Twelve Who Came Before]].
+It began with the [[The Twelve Gods|Twelve Who Came Before]].
 
 It will end with Victoria.
 

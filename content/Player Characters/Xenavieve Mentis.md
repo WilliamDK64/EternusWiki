@@ -3,16 +3,16 @@ aliases:
   - Vivi
 ---
 
-| **PLAYER CHARACTER ** |                                                                                         |
-| --------------------- | --------------------------------------------------------------------------------------- |
-| **Player**            | Zae                                                                                     |
-| **Pronouns**          | she/her                                                                                 |
-| **Also Known As**     | <ul><li>Vivi<li>Lady Mentis</ul>                                                        |
-| **Age**               | 15                                                                                      |
-| **Race**              | High Elf                                                                                |
-| **Places**            | <ul><li>[[Chimaera]], [[Sara Dominion]]</ul>                                            |
-| **Family**            | <ul><li>[[Croesus Mentis\|Croesus]] (Father)<li>[[Pythia Mentis\|Pythia]] (Mother)</ul> |
-| **Status**            | Alive                                                                                   |
+| PLAYER CHARACTER  |                                                                                         |
+| ----------------- | --------------------------------------------------------------------------------------- |
+| **Player**        | Zae                                                                                     |
+| **Pronouns**      | she/her                                                                                 |
+| **Also Known As** | <ul><li>Vivi<li>Lady Mentis</ul>                                                        |
+| **Age**           | 15                                                                                      |
+| **Race**          | High Elf                                                                                |
+| **Places**        | <ul><li>[[Chimaera]], [[Sara Dominion]]</ul>                                            |
+| **Family**        | <ul><li>[[Croesus Mentis\|Croesus]] (Father)<li>[[Pythia Mentis\|Pythia]] (Mother)</ul> |
+| **Status**        | Alive                                                                                   |
 
 <br>
 
