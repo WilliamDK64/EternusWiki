@@ -2,5 +2,8 @@
 title: Welcome to Eternus
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+It began with the Twelve Who Came Before.
+
+It will end with Victoria.
+
+(The rest of the wiki will be ported soon...)
