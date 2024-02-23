@@ -1,7 +1,6 @@
 ---
 aliases:
   - Vuris
-draft: "false"
 ---
 ![[Vuris.png]]
 

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Myco
-draft: "false"
 ---
 ![[MycoAutumn.png]]
 

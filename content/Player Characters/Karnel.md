@@ -1,7 +1,6 @@
 ---
 aliases:
   - Karnel
-draft: "false"
 ---
 ![[Karnel.png]]
 

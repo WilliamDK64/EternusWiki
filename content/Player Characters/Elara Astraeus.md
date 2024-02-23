@@ -1,7 +1,6 @@
 ---
 aliases:
   - Elara
-draft: "false"
 ---
 ![[Elara.png]]
 

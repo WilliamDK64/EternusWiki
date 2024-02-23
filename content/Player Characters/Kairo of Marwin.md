@@ -1,7 +1,6 @@
 ---
 aliases:
   - Kairo
-draft: "false"
 ---
 ![[Kairo.png]]
 
