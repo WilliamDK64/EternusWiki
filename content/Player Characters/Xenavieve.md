@@ -7,16 +7,16 @@ aliases:
 > # Xenavieve Mentis
 > ![[XenavieveHead.png]]
 > ###### Player Character
-> | Character Information |
-> | ---- | ---- |
-> | **Player** | Zae |
-> | **Pronouns** | she/her |
-> | **Also Known As** | <ul><li>Vivi <li>Lady Mentis</ul> |
-> | **Age** | 15 |
-> | **Race** | High Elf |
-> | **Places** | <ul><li>[[Chimaera]], [[Sara Dominion]]</ul> |
-> | **Family** | <ul><li>[[Croesus]] (Father)<li>[[Pythia]] (Mother)</ul> |
-> | **Status** | Alive |
+> **Character Information**
+> 
+> **Player** | Zae 
+> **Pronouns** | she/her
+> **Also Known As** <ul><li>Vivi <li>Lady Mentis</ul>
+> **Age** | 15 
+> **Race** | High Elf 
+> **Places** <ul><li>[[Chimaera]], [[Sara Dominion]]</ul> 
+> **Family** <ul><li>[[Croesus]] (Father)<li>[[Pythia]] (Mother)</ul> 
+> **Status** | Alive 
 
 <br>
 
@@ -32,7 +32,9 @@ Lady Xenavieve of House Mentis is a high elven psionic.
 		- [[#Background|Background]]
 - [[#Relationships|Relationships]]
 
-
+| djklsdja | dsakldk; |
+| -------- | -------- |
+| dsad     | dsad     |
 
 ## Description
 
