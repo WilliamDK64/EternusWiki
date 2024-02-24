@@ -35,7 +35,7 @@ Vivi is generally quite shy and reserved.
 
 
 #### Background
-Vivi was born into nobility in the year 431PS. Her mother died when she was young, and her father when she was in her teens. She had to care for her father in his delusions for many years before she inherited the House of Mentis. About a year later, she escaped from the house with [[Cypress]] to the Witchlight Carnival.
+Vivi was born into nobility in the year 431PS. Her mother died when she was young, and her father when she was in her teens. She had to care for her father in his delusions for many years before she inherited the House of Mentis. About a year later, she escaped from the house with [[Cypress of Saturnalia|Cypress]] to the [[Witchlight Carnival]].
 
 ## Relationships
 #### Cypress
