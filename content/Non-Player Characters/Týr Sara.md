@@ -11,4 +11,7 @@ Týr is tall and muscular, but in a way that makes him look frail at first, wher
 
 He became a god using [[Magic/The Divine Rites#The Wolf's Ritual\|The Wolf's Ritual]], which led to him battling [[Non-Player Characters/Yuphra]] who wished to murder him for his great sin. Though Týr's immortality meant he could not be slain, Yuphra still won the fight and stabbed him in the back of the head with its sword [[Items/Weapons/Crescent]]. The god was left in chains with this sword through his head, not dead but not fully alive, for a thousand years until he was freed by the [[Creatures/Godeater]]. Týr now wields Crescent as his own sword.
 
+![[Resources/TYRSARA.jpg|300]]
+*Týr wielding the now-tarnished Crescent.*
+
 Týr is the father of [[Non-Player Characters/Clio Sara]], but only raised her in early childhood. As part of [[The Progeny]], his brother is [[Non-Player Characters/Eitr Sara]], and his sister is [[Xanthe Sara]].
