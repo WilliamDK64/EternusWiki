@@ -3,7 +3,7 @@
 ---
 
 
-![[Resources/GODEATER.png\|300]]
+
 ###### Elder Evil
 Godeaters are [[Magic/Cardinal]] beings from beyond the [[Magic/Veil]]. They are capable of devouring [[Magic/Animus]], and act animalistically in their hunger for it, in a way that is impossible for any mortal mind to fully comprehend.
 
