@@ -9,7 +9,7 @@ The Daymora Khaganate is an arid country on the southernmost point of [[Location
 - [[Northwatch]], Northern Khanate
 - [[Karkinos]], Southern Khanate
 - [[Locations/Alkhan and Edaros]], Eastern Khanate
-- XXX, Western Khanate
+- [[Tlacoatlan]], Western Khanate
 
 In ancient times, the many khans of southern Ethrys were at war, and would battle over areas of land. However, when faced with [[Creatures/Elemental Titans]] summoned by the powerful southern leylines that were ravaging their land, the khans banded together to fight them off. In return for this show of peace and collaboration, the Morninglord [[Non-Player Characters/Lathander]] created twelve [[Creatures/Sun Drakes]], gargantuan serpents with the power to breath light, to be their guardians from the titans. The eldest and greatest of the drakes was [[Non-Player Characters/Daymora]], whom the khans made their grand khagan, beginning the Daymora Khaganate.
 ### Regions
