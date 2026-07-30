@@ -8,7 +8,7 @@ There are a number of religious texts in [[Locations/Eternus]] for many differen
 - The [[Items/Predator's Bible]] ([[Non-Player Characters/Clio Sara\|Kleos]] and [[Non-Player Characters/Typhon]])
 - [[Notes on Oblivia]] ([[Non-Player Characters/Pölark]])
 - The [[Dawn Scriptures]] ([[Non-Player Characters/Lathander]])
-- The [[Source of Blood and All That Flows]] ([[Non-Player Characters/The Sanguine Lord]] and [[Strzyga of Drey]])
+- The [[Haemma Quelle]] ([[Non-Player Characters/The Sanguine Lord]] and [[Strzyga of Drey]])
 - The [[Grim Poems]] ([[Non-Player Characters/Octavian]])
 - The [[Enlightened Texts]] ([[Non-Player Characters/Alexandria]])
 - The [[Books of Ruination]] ([[Non-Player Characters/Gruumsh]])
