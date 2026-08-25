@@ -20,3 +20,19 @@ Learn about the places in [[Locations/Eternus]], including the continents of the
 ###### The People.
 Learn about influential figures on [[Locations/Eternus]]' past, present, and future.
 - [[Groups/Eternus Victoria]]
+
+
+```base
+filters: file.hasProperty("marker")
+views:
+- type: leaflet-map
+  name: Map
+  mapName: test
+  image: Resources/ALFHEIMMAP.jpg
+  height: 400 
+  minZoom: -1.0 
+  maxZoom: 2 
+  defaultZoom: -1.0 
+  zoomDelta: 0.5
+  scale: "0.5"
+```
